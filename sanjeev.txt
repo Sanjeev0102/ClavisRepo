@@ -4,4 +4,6 @@ git init is one way to start a new project with Git. To start a repository, use 
 That directory stores all of the objects and refs that Git uses and creates as a part of your project's history.
 
 The git config list command will show all Git config properties throughout all of the variously scoped Git files.
-If the value displayed is different from the value expected, then an override is happening in one of the other Git config scopes.07-Jun-2020
+If the value displayed
+ is different from the value expected, then an override is happening in one of the other Git config scopes.07-Jun-2020
+asdfghjkl;'xcvbnm,
